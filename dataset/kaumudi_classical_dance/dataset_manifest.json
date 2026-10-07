@@ -1,0 +1,268 @@
+{
+  "bharatanatyam_nattuvangam_sollukattu.jsonl": {
+    "records_count": 1,
+    "keys": [
+      "id",
+      "dataset",
+      "schema_version",
+      "text_ml",
+      "text_en",
+      "source_url",
+      "license",
+      "rights",
+      "consent_status",
+      "expert_reviewed",
+      "status"
+    ]
+  },
+  "bharatanatyam_video_choreography_annotations.jsonl": {
+    "records_count": 1,
+    "keys": [
+      "id",
+      "dataset",
+      "schema_version",
+      "text_ml",
+      "text_en",
+      "source_url",
+      "license",
+      "rights",
+      "consent_status",
+      "expert_reviewed",
+      "status"
+    ]
+  },
+  "mohiniyattam.jsonl": {
+    "records_count": 6,
+    "keys": [
+      "id",
+      "dataset",
+      "description_ml",
+      "modalities",
+      "languages",
+      "license",
+      "source_url",
+      "rights",
+      "status"
+    ]
+  },
+  "kuchipudi_adavu_hasta_lexicon.jsonl": {
+    "records_count": 1,
+    "keys": [
+      "id",
+      "dataset",
+      "schema_version",
+      "text_ml",
+      "text_en",
+      "source_url",
+      "license",
+      "rights",
+      "consent_status",
+      "expert_reviewed",
+      "status"
+    ]
+  },
+  "kuchipudi_taranga_dataset.jsonl": {
+    "records_count": 1,
+    "keys": [
+      "id",
+      "dataset",
+      "schema_version",
+      "text_ml",
+      "text_en",
+      "source_url",
+      "license",
+      "rights",
+      "consent_status",
+      "expert_reviewed",
+      "status"
+    ]
+  },
+  "bharatanatyam_hasta_abhinaya_dictionary.jsonl": {
+    "records_count": 1,
+    "keys": [
+      "id",
+      "dataset",
+      "schema_version",
+      "text_ml",
+      "text_en",
+      "source_url",
+      "license",
+      "rights",
+      "consent_status",
+      "expert_reviewed",
+      "status"
+    ]
+  },
+  "mohiniyattam_video_pose_annotations.jsonl": {
+    "records_count": 1,
+    "keys": [
+      "id",
+      "dataset",
+      "schema_version",
+      "text_ml",
+      "text_en",
+      "source_url",
+      "license",
+      "rights",
+      "consent_status",
+      "expert_reviewed",
+      "status"
+    ]
+  },
+  "mohiniyattam_lasya_bhava_labels.jsonl": {
+    "records_count": 1,
+    "keys": [
+      "id",
+      "dataset",
+      "schema_version",
+      "text_ml",
+      "text_en",
+      "source_url",
+      "license",
+      "rights",
+      "consent_status",
+      "expert_reviewed",
+      "status"
+    ]
+  },
+  "kuchipudi.jsonl": {
+    "records_count": 5,
+    "keys": [
+      "id",
+      "dataset",
+      "description_ml",
+      "modalities",
+      "languages",
+      "license",
+      "source_url",
+      "rights",
+      "status"
+    ]
+  },
+  "kuchipudi_dance_drama_scripts.jsonl": {
+    "records_count": 1,
+    "keys": [
+      "id",
+      "dataset",
+      "schema_version",
+      "text_ml",
+      "text_en",
+      "source_url",
+      "license",
+      "rights",
+      "consent_status",
+      "expert_reviewed",
+      "status"
+    ]
+  },
+  "bharatanatyam_adavu_malayalam.jsonl": {
+    "records_count": 1,
+    "keys": [
+      "id",
+      "dataset",
+      "schema_version",
+      "text_ml",
+      "text_en",
+      "source_url",
+      "license",
+      "rights",
+      "consent_status",
+      "expert_reviewed",
+      "status"
+    ]
+  },
+  "kuchipudi_malayalam_glossary.jsonl": {
+    "records_count": 1,
+    "keys": [
+      "id",
+      "dataset",
+      "schema_version",
+      "text_ml",
+      "text_en",
+      "source_url",
+      "license",
+      "rights",
+      "consent_status",
+      "expert_reviewed",
+      "status"
+    ]
+  },
+  "mohiniyattam_hasta_lexicon.jsonl": {
+    "records_count": 1,
+    "keys": [
+      "id",
+      "dataset",
+      "schema_version",
+      "text_ml",
+      "text_en",
+      "source_url",
+      "license",
+      "rights",
+      "consent_status",
+      "expert_reviewed",
+      "status"
+    ]
+  },
+  "mohiniyattam_padams.jsonl": {
+    "records_count": 1,
+    "keys": [
+      "id",
+      "dataset",
+      "schema_version",
+      "text_ml",
+      "text_en",
+      "source_url",
+      "license",
+      "rights",
+      "consent_status",
+      "expert_reviewed",
+      "status"
+    ]
+  },
+  "kuchipudi_video_scene_annotations.jsonl": {
+    "records_count": 1,
+    "keys": [
+      "id",
+      "dataset",
+      "schema_version",
+      "text_ml",
+      "text_en",
+      "source_url",
+      "license",
+      "rights",
+      "consent_status",
+      "expert_reviewed",
+      "status"
+    ]
+  },
+  "mohiniyattam_adavu_dataset.jsonl": {
+    "records_count": 1,
+    "keys": [
+      "id",
+      "dataset",
+      "schema_version",
+      "text_ml",
+      "text_en",
+      "source_url",
+      "license",
+      "rights",
+      "consent_status",
+      "expert_reviewed",
+      "status"
+    ]
+  },
+  "bharatanatyam.jsonl": {
+    "records_count": 5,
+    "keys": [
+      "id",
+      "dataset",
+      "description_ml",
+      "modalities",
+      "languages",
+      "license",
+      "source_url",
+      "rights",
+      "status"
+    ]
+  }
+}
